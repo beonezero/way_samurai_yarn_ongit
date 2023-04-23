@@ -16,6 +16,8 @@ function App() {
             Learn React
         </a>
         <p>123456</p>
+          <p>2</p>
+          <p>3</p>
       </header>
     </div>
   );
